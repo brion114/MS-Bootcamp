@@ -24,6 +24,7 @@
 ---
 
 ## 📁 주요 실습 파일
-- `12 동적 라우팅 설정OSPF.docx` / `정적라우팅완성(OSPF).pkt`
-- `NAT_실습_v1.docx` / `Nat-PAT to PC1.pkt`
-- `영역3_서버서비스_완전실습(part3).docx` / `1.pkt`
+
+- **라우팅 실습**: `12 동적 라우팅 설정OSPF.docx` / `정적라우팅완성(OSPF).pkt` / `1015-1.pkt`
+- **NAT 실습**: `NAT_실습_v1.docx` / `NAT_PAT_Server_Lab.pkt` / `Nat-PAT to PC!.pkt`
+- **서버 서비스 실습**: `영역3_서버서비스_완전실습(part3).docx` / `Router_DHCP_Server_Lab.pkt`
